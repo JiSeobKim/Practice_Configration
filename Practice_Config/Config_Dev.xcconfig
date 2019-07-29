@@ -1,0 +1,15 @@
+//
+//  Config_Dev.xcconfig
+//  Practice_Config
+//
+//  Created by kimjiseob on 29/07/2019.
+//  Copyright © 2019 kimjiseob. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+DISPLAY_NAME = 개발
+PRODUCT_BUNDLE_IDENTIFIER = com.KJS.Practice-Config-Dev
+SERVER_URL = www.dev.com
